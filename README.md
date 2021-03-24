@@ -62,7 +62,9 @@ height: 550px;
 </div>
 ```
 
-img[src*="#thumbnail"] {
-   width:150px;
-   height:100px;
-}
+
+<img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-24%20Playground%20Digital%20House(4).png" alt="Kitten"
+	title="A cute kitten" width="550" height="300"/>
+
+
+- Deberas cambiar la informacion del bloque para , recordar desde cuando cuando fue la maquetacion
