@@ -64,7 +64,7 @@ height: 550px;
 
 
 <img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-24%20Playground%20Digital%20House(4).png" alt="Kitten"
-	title="A cute kitten" width="550" height="300"/>
+	title="" width="550" height="300"/>
 
 
 - Deberas cambiar la informacion del bloque para recordar desde cuando cuando fue la maquetacion
@@ -106,3 +106,6 @@ font-size:18px;
 ```
 - Muy util para no colocar el Link a un recurso exterior solo como elance HTML
 
+<img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-24%20Playground%20Digital%20House(1).png
+" alt=""
+	title="A cute kitten" width="550" height="300"/>
