@@ -68,3 +68,41 @@ height: 550px;
 
 
 - Deberas cambiar la informacion del bloque para recordar desde cuando cuando fue la maquetacion
+
+____
+# Link a YouTube
+```
+<div style="
+border-radius: 15px ;
+border:1px solid #cccc;
+padding:17px;
+font-size:16px;
+" 
+class="section"
+>
+<div class="section"
+style="
+margin-bottom:10px;
+font-size:16px;
+"
+>
+<img src="https://assets.digitalhouse.com/content/ar/ux/play-button.png"
+style="
+width: 5%;
+margin-bottom: 5px;
+padding-top: 1px;
+">
+<span class="bold"
+style="
+margin: 0px;
+padding-bottom: 0px;
+font-size:18px;
+"
+> Te invitamos a ver el siguiente video.</span></div>
+ 
+<a href="https://www.youtube.com/watch?v=xT82Af3NpZQ" target="_blank">Ver Video</a>
+
+</div>
+```
+- Muy util para no colocar el Link a un recurso exterior solo como elance HTML
+
