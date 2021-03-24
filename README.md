@@ -67,4 +67,4 @@ height: 550px;
 	title="A cute kitten" width="550" height="300"/>
 
 
-- Deberas cambiar la informacion del bloque para , recordar desde cuando cuando fue la maquetacion
+- Deberas cambiar la informacion del bloque para recordar desde cuando cuando fue la maquetacion
