@@ -119,3 +119,38 @@ _____
 </li>
 ```
 <img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-25%20Maquetado_VictorOrtiz_UX%2BCTD(1).png" alt="" title="A cute kitten" width="500" height="150"/>
+
+
+_____
+NOTIFICACIONES PERSONALIZADAS CON BOLD - (COLOR) OPCIONAL
+```
+<div
+style="
+border-radius: 15px ;
+border:1px solid #cccc;
+padding:10px;
+"
+class=section--notification--idea"">"
+<div
+style="
+border-left: 3px solid #ccc;
+padding-left: 17px;
+font-family: 'IBM Plex Sans', sans-serif;
+font-size: 15px;
+font-weight: bold;
+margin-left: -15px;
+}
+">
+<span style="
+color:#3434d5;
+">TEXTO</span>
+</div>
+</div>
+
+<img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-25%20Maquetado_VictorOrtiz_UX%2BCTD(1).png" alt="" title="A cute kitten" width="500" height="150"/>
+<img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-25%20Maquetado_VictorOrtiz_UX%2BCTD(1).png" alt="" title="A cute kitten" width="500" height="150"/>
+<img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-25%20Maquetado_VictorOrtiz_UX%2BCTD(1).png" alt="" title="A cute kitten" width="500" height="150"/>
+<img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-25%20Maquetado_VictorOrtiz_UX%2BCTD(1).png" alt="" title="A cute kitten" width="500" height="150"/>
+<img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-25%20Maquetado_VictorOrtiz_UX%2BCTD(1).png" alt="" title="A cute kitten" width="500" height="150"/>
+
+```
