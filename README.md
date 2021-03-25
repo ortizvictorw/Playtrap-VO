@@ -118,4 +118,4 @@ _____
 	TEXTO
 </li>
 ```
-<img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-24%20Playground%20Digital%20House(1).png" alt="" title="A cute kitten" width="500" height="300"/>
+<img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-25%20Maquetado_VictorOrtiz_UX%2BCTD(1).png" alt="" title="A cute kitten" width="500" height="300"/>
