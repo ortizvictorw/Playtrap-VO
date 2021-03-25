@@ -110,7 +110,7 @@ font-size:18px;
 
 _____
 
-# Links Font zise 16px
+# Links Font size 16px ( ya que los link en playtrap tienen font de 14px y el texto tiene un font size de 16px )
 
 ```
 <li style="
