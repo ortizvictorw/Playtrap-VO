@@ -146,11 +146,11 @@ color:#3434d5;
 ">TEXTO</span>
 </div>
 </div>
-
-<img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-25%20Maquetado_VictorOrtiz_UX%2BCTD(1).png" alt="" title="A cute kitten" width="500" height="150"/>
-<img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-25%20Maquetado_VictorOrtiz_UX%2BCTD(1).png" alt="" title="A cute kitten" width="500" height="150"/>
-<img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-25%20Maquetado_VictorOrtiz_UX%2BCTD(1).png" alt="" title="A cute kitten" width="500" height="150"/>
-<img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-25%20Maquetado_VictorOrtiz_UX%2BCTD(1).png" alt="" title="A cute kitten" width="500" height="150"/>
-<img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-25%20Maquetado_VictorOrtiz_UX%2BCTD(1).png" alt="" title="A cute kitten" width="500" height="150"/>
-
 ```
+<img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-25%20Maquetado_VictorOrtiz_UX%2BCTD(2).png" alt="" title="A cute kitten" width="500" height="150"/>
+<img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-25%20Maquetado_VictorOrtiz_UX%2BCTD(3).png" alt="" title="A cute kitten" width="500" height="150"/>
+<img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-25%20Maquetado_VictorOrtiz_UX%2BCTD(5).png" alt="" title="A cute kitten" width="500" height="150"/>
+<img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-25%20Maquetado_VictorOrtiz_UX%2BCTD(6).png" alt="" title="A cute kitten" width="500" height="150"/>
+<img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-25%20Maquetado_VictorOrtiz_UX%2BCTD(4).png" alt="" title="A cute kitten" width="500" height="150"/>
+
+
