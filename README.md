@@ -18,7 +18,7 @@ ____
   }
   </style>
  <pre>
-  < div class="section">
+  <div class="section">
     CONTENIDO
   </div>  
 
@@ -106,4 +106,16 @@ font-size:18px;
 ```
 - Muy util para no colocar el Link a un recurso exterior solo como elance HTML
 
+<img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-24%20Playground%20Digital%20House(1).png" alt="" title="A cute kitten" width="500" height="300"/>
+
+_____
+
+# Links Font zise 16px
+
+```
+<li style="
+	font-size:16px">
+	TEXTO
+</li>
+```
 <img src="https://raw.githubusercontent.com/ortizvictorw/Playtrap-VO/main/Screenshot_2021-03-24%20Playground%20Digital%20House(1).png" alt="" title="A cute kitten" width="500" height="300"/>
