@@ -17,7 +17,6 @@ ____
            margin-bottom: 5px;
   }
   </style>
- <pre>
   <div class="section">
     CONTENIDO
   </div>  
